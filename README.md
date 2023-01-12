@@ -6,10 +6,10 @@ Prolog
 Installation
 ------------
 
-- Install `django-generic-m2m-field` with the `pip` command:
+- Install `skip-django-generic-m2m-field` with the `pip` command:
 
 ```bash
-pip install django-generic-m2m-field
+pip install skip-django-generic-m2m-field
 ```
 
 - Add `'generic_m2m_field'` to your `INSTALLED_APPS`:

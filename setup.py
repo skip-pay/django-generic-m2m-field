@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='django-generic-m2m-field',
-    version='0.0.9',
+    name='skip-django-generic-m2m-field',
+    version='0.0.9.1',
     description="Django generic many to many field library.",
     keywords='django, fields, generic',
     author='Lubos Matl',
@@ -28,7 +28,7 @@ setup(
     ],
     install_requires=[
         'django>=2.2.9, <4.0',
-        'django-chamber>=0.6.16'
+        'skip-django-chamber>=0.6.16.2'
     ],
     zip_safe=False
 )
