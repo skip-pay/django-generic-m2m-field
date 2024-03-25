@@ -1,4 +1,4 @@
-Django<=3.2
-skip-django-germanium==2.3.6.1
+Django~=4.2
+skip-django-germanium @ git+https://github.com/skip-pay/germanium@tda/chore/django_bump
 coverage==5.5
 flake8
