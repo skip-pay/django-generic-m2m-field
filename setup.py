@@ -28,7 +28,7 @@ setup(
     ],
     install_requires=[
         'django>=4.2.0',
-        'skip-django-chamber @ git+https://github.com/skip-pay/django-chamber@tda/chore/django_bump'
+        'skip-django-chamber>=0.7.2'
     ],
     zip_safe=False
 )
